@@ -58,5 +58,7 @@ The other macro is to start the round tracker. This will automatically sort ever
 
 I also make it on the bottom bar as well. makes it easy to begin and end combat quickly.
 
+AutoDeath Script
+----------------
 
-
+Nothing needed to do here just make sure it is one of your enabled scriptes. Mobs will automatically show a bloodied icon then when reduced to 0 will show the X.
